@@ -1,0 +1,5 @@
+Per eseguire i test
+-commentare il bean storicoAdvisor nell'applicationContext-pojo
+-settare nel general.properties RicevutaSostitutiva.jdbc.dataSourceName=directDataSource
+-scommentare nell'applicationContext-dao di ricevuta il directDataSource e commentare il jndiDataSource
+-aggiungere se non presente M2_REPO/org/springframework/spring-security/2.0.4/spring-security-core-2.0.4.jar nel classpath
