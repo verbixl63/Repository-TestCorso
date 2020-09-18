@@ -10,7 +10,7 @@ import org.springframework.test.AbstractTransactionalSpringContextTests;
 public class RicevutaSostitutivaCartaCircolazioneVeicoloServiceManagerImplTest extends
 		AbstractTransactionalSpringContextTests {
 	/**
-	 * Default logger
+	 * Default logger - modifica del 18.09.2020
 	 */
 	protected static Log logger = LogFactory
 			.getLog(RicevutaSostitutivaCartaCircolazioneVeicoloServiceManagerImplTest.class);
